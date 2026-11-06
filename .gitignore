@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.csv
+*.pkl
+*.zip
+
+data/
+results/
+deepmimo_scenarios/
+DeepMIMO-场景列表.txt
+scripts/data/
+scripts/results/
+scripts/main.tex
+scripts .bak/

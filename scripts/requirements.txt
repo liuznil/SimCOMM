@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn>=1.2
+matplotlib
+deepmimo>=4.0
+requests
